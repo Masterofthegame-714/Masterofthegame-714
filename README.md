@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p>My name is Matthew Baumann, I am a first year student in Cyber-Security and taking courses at LANE COMMUNITY COLLEGE </p>
 
 <!--
 **Masterofthegame-714/Masterofthegame-714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
