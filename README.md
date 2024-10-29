@@ -42,16 +42,6 @@ Follow these steps to get started with **White Hat Hacking**:
     sudo apt-get install -y <dependencies>
     ```
 
-## Contributing
-We welcome contributions from the community! If you are interested in contributing to **White Hat Hacking**, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add new feature'`)
-5. Push to the branch (`git push origin feature-branch`)
-6. Open a Pull Request
-
 ## Contact
 Feel free to reach out if you need any assistance or have any questions. You can contact us through the following platforms:
 
