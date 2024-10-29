@@ -1,30 +1,61 @@
 ## Hi there 👋
-<p>My name is Matthew Baumann, This is a quick layout for the DIABLO 4 service I am planning to Develop Soon. </p>
+<p>My name is Matthew Baumann, I am a White-Hat hacker currently enrolled at Lane Community College Majoring in Cyber-Security with a passion in the White-Hat World, Specialize in Virtualization and Customizing Virtual Enviornments. Contact me if you have any questions or need help with anything :) ~Excelsior~ </p>
 <br>
 <p></p>
 
-# Diabolic
+# White Hat Hacking
 
-Welcome to **Diabolic**, the ultimate online trading platform for Diablo 4 enthusiasts. Trade your Diablo 4 items for D4Rubys, our exclusive online currency, and connect with other players through customizable profiles and an integrated chat/messaging system.
+## Overview
+Welcome to **White Hat Hacking**! This project is dedicated to developing and testing new programs and code to ensure integrity and correct fundamental errors. Our primary focus is on:
+
+- Windows Systems
+- Security testing using Kali Linux in a Virtual Machine
 
 ## Features
+- **Development and Testing**: Create and test new code to find and fix vulnerabilities.
+- **Windows Systems**: Ensuring security and integrity in Windows environments.
+- **Kali Linux**: Utilize Kali Linux as the primary OS for security testing.
 
-- **Trade System:** Safely trade your Diablo 4 items for D4Rubys.
-- **Customizable Profiles:** Personalize your profile to stand out in the trading community.
-- **Integrated Chat/Messaging:** Communicate seamlessly with other traders.
+## Assistance
+We offer support for individuals new to Linux. Whether you need advice or practical guidance, we are here to help! Our assistance includes:
 
-## Installation
+- **Guidance for Linux Newbies**: Helping you get started with Linux.
+- **Tools and Downloads**: Providing essential tools, downloads, and programs to support your coding, hacking, and programming journey.
 
-*To be determined (installation instructions will be provided once the code is written).*
+## Getting Started
+Follow these steps to get started with **White Hat Hacking**:
 
-## Usage
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/Masterofthegame-714/white-hat-hacking.git
+    cd white-hat-hacking
+    ```
 
-*To be determined (usage instructions will be provided once the code is written).*
+2. **Set Up Your Environment**:
+    - Ensure you have a Windows system ready for testing.
+    - Install Kali Linux in a Virtual Machine.
+
+3. **Install Dependencies**:
+    ```bash
+    # Example for installing dependencies, adjust according to your needs
+    sudo apt-get update
+    sudo apt-get install -y <dependencies>
+    ```
 
 ## Contributing
+We welcome contributions from the community! If you are interested in contributing to **White Hat Hacking**, please follow these steps:
 
-We welcome contributions to enhance Diabolic. Feel free to fork the repository and submit pull requests.
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add new feature'`)
+5. Push to the branch (`git push origin feature-branch`)
+6. Open a Pull Request
 
-## License
+## Contact
+Feel free to reach out if you need any assistance or have any questions. You can contact us through the following platforms:
 
-This project is licensed under the MIT License.
+- [GitHub Issues](https://github.com/Masterofthegame-714/white-hat-hacking/issues)
+- [Email](mailto:your-email@example.com)
+
+Thank you for visiting **White Hat Hacking**! We hope you find our tools and guidance helpful in your journey.
