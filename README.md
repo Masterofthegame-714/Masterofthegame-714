@@ -1,19 +1,30 @@
 ## Hi there 👋
-<p>My name is Matthew Baumann, I am a first year student in Cyber-Security and taking courses at LANE COMMUNITY COLLEGE </p>
+<p>My name is Matthew Baumann, This is a quick layout for the DIABLO 4 service I am planning to Develop Soon. </p>
 <br>
-<p>If anyone has recommendations for a first year Cyber-Security student, please message me :) I would love to hear your ideas on good career paths</p>
+<p></p>
 
-<!--
-**Masterofthegame-714/Masterofthegame-714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Diabolic
 
-Here are some ideas to get you started:
+Welcome to **Diabolic**, the ultimate online trading platform for Diablo 4 enthusiasts. Trade your Diablo 4 items for D4Rubys, our exclusive online currency, and connect with other players through customizable profiles and an integrated chat/messaging system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+
+- **Trade System:** Safely trade your Diablo 4 items for D4Rubys.
+- **Customizable Profiles:** Personalize your profile to stand out in the trading community.
+- **Integrated Chat/Messaging:** Communicate seamlessly with other traders.
+
+## Installation
+
+*To be determined (installation instructions will be provided once the code is written).*
+
+## Usage
+
+*To be determined (usage instructions will be provided once the code is written).*
+
+## Contributing
+
+We welcome contributions to enhance Diabolic. Feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
